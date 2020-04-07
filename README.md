@@ -6,3 +6,4 @@
 - [Календарный план](kp_basem.docx)
 - [Техническое задание](tz_bs.docx)
 - [Схема электрическая принципиальная](E3.pdf)
+https://drive.google.com/drive/folders/1TKpH4NfC3p5yHsoyfRLY1NscqAL4M0CU
